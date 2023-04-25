@@ -59,7 +59,7 @@ body {
 #app {
   background: var(--color-bg-black);
   height: 48rem;
-  width: 24rem;
+  width: 48rem;
   padding: 2rem 1.6rem;
   overflow-y: scroll;
   position: relative;
